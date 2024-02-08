@@ -35,6 +35,14 @@
 
         </tbody>
     </table>
+    <div class="d-flex justify-content-center">
+        {{#hasPrevious}}
+            <a class="btn btn-outline-primary" href="?page={{previous}}">Prev</a>
+        {{/hasPrevious}}
+        {{#hasNext}}
+            <a class="btn btn-outline-primary" href="?page={{next}}">Next</a>
+        {{/hasNext}}
+    </div>
 
 </div>
 

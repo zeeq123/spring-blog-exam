@@ -1,2 +1,11 @@
 insert into board_tb(title, content, author) values ('제목1', '내용1', '작성자1');
 insert into board_tb(title, content, author) values ('제목2', '내용2', '작성자2');
+insert into board_tb(title, content, author) values ('제목3', '내용3', '작성자3');
+insert into board_tb(title, content, author) values ('제목4', '내용4', '작성자4');
+insert into board_tb(title, content, author) values ('제목5', '내용5', '작성자5');
+insert into board_tb(title, content, author) values ('제목6', '내용6', '작성자6');
+insert into board_tb(title, content, author) values ('제목7', '내용7', '작성자7');
+insert into board_tb(title, content, author) values ('제목8', '내용8', '작성자8');
+insert into board_tb(title, content, author) values ('제목9', '내용9', '작성자9');
+insert into board_tb(title, content, author) values ('제목10', '내용10', '작성자10');
+insert into board_tb(title, content, author) values ('제목11', '내용11', '작성자11');
